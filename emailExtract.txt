@@ -1,0 +1,16 @@
+Hello team,
+
+Please reach out to the following contacts for support:
+
+- John Doe: john.doe@example.com
+- Jane Smith: jane_smith123@company.co.uk
+- Sales Dept: sales@business.org
+- Backup contact: backup.email+test@gmail.com
+
+Also, remember to include hr@company.com in your communications.
+
+Thank you!
+
+Best regards,
+Company Admin
+admin@company.com
